@@ -1,0 +1,49 @@
+Instant 0:
+(0, a, 0)
+(0, x, 0)
+Instant 1:
+(1, a, 2)
+(1, x, 2)
+Instant 2:
+(2, a, 4)
+(2, x, 4)
+(2, z, true)
+Instant 3:
+(3, a, 5)
+(3, x, 5)
+(0, y, 5)
+(0, z, true)
+(3, z, true)
+(0, w, (true, 0))
+Instant 4:
+(4, a, 1)
+(4, x, 1)
+(1, y, 1)
+(1, z, false)
+(1, w, (false, 2))
+Instant 5:
+(5, a, 3)
+(5, x, 3)
+(2, y, 3)
+(2, w, (false, 4))
+Instant 6:
+(6, a, 3)
+(6, x, 3)
+(3, y, 3)
+(3, w, (false, 5))
+Instant 7:
+(7, a, 9)
+(7, x, 9)
+(4, y, 9)
+(4, z, true)
+(7, z, true)
+(4, w, (true, 1))
+Finish:
+(5, y, 0)
+(6, y, 0)
+(7, y, 0)
+(5, z, false)
+(6, z, false)
+(5, w, (false, 3))
+(6, w, (false, 3))
+(7, w, (false, 9))

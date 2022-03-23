@@ -1,0 +1,33 @@
+Instant 0:
+(0, instant, 1)
+(0, x, 125.01000000000001)
+(0, sma5, nothing)
+Instant 1:
+(1, instant, 2)
+(1, x, 124.81000000000000)
+(1, sma5, nothing)
+Instant 2:
+(2, instant, 3)
+(2, x, 129.03999999999999)
+(2, sma5, nothing)
+Instant 3:
+(3, instant, 4)
+(3, x, 134.18000000000001)
+(3, sma5, nothing)
+Instant 4:
+(4, instant, 5)
+(4, x, 131.40000000000001)
+(4, sma5, just (128.88800000000001))
+Instant 5:
+(5, instant, 6)
+(5, x, 120.88000000000000)
+(5, sma5, just (128.06199999999998))
+Instant 6:
+(6, instant, 7)
+(6, x, 120.95999999999999)
+(6, sma5, just (127.29200000000000))
+Instant 7:
+(7, instant, 8)
+(7, x, 116.04000000000001)
+(7, sma5, just (124.69200000000001))
+Finish:

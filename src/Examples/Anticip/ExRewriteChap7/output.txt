@@ -1,0 +1,31 @@
+Instant 0:
+(0, a, 4)
+(0, x, 5)
+Instant 1:
+(1, a, 6)
+(1, x, 4)
+Instant 2:
+(2, a, 5)
+(2, x, 6)
+Instant 3:
+(3, a, 3)
+(3, x, 5)
+Instant 4:
+(4, a, 6)
+(4, x, 3)
+Instant 5:
+(5, a, 2)
+(5, x, 6)
+Instant 6:
+(6, a, 3)
+(6, x, 2)
+Instant 7:
+(7, a, 1)
+(7, x, 3)
+Instant 8:
+(8, a, 6)
+(8, x, 1)
+Instant 9:
+(9, a, 3)
+(9, x, 6)
+Finish:

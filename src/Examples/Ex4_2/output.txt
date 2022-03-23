@@ -1,0 +1,21 @@
+Instant 0:
+(0, a, 3)
+(0, x, true)
+Instant 1:
+(1, a, 5)
+(1, x, true)
+(0, y, 6)
+Instant 2:
+(2, a, 8)
+(2, x, true)
+(1, y, 14)
+Instant 3:
+(3, a, 2)
+(3, x, true)
+(2, y, 16)
+Instant 4:
+(4, a, 4)
+(4, x, true)
+(3, y, 20)
+Finish:
+(4, y, 21)

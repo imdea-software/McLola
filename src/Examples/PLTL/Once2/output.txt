@@ -1,0 +1,34 @@
+Instant 0:
+(0, p, false)
+(0, once_p, false)
+Instant 1:
+(1, p, false)
+(1, once_p, false)
+Instant 2:
+(2, p, false)
+(2, once_p, false)
+Instant 3:
+(3, p, false)
+(3, once_p, false)
+Instant 4:
+(4, p, false)
+(4, once_p, false)
+Instant 5:
+(5, p, true)
+(5, once_p, true)
+Instant 6:
+(6, p, false)
+(6, once_p, true)
+Instant 7:
+(7, p, false)
+(7, once_p, true)
+Instant 8:
+(8, p, true)
+(8, once_p, true)
+Instant 9:
+(9, p, false)
+(9, once_p, true)
+Instant 10:
+(10, p, false)
+(10, once_p, true)
+Finish:

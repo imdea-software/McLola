@@ -1,0 +1,11 @@
+#!/bin/bash
+# This script can be used to test MisraC-2012 compliance using cppcheck.
+
+cppcheck --dump data.h
+python misra.py --suppress-rules 21.6 data.h.dump
+cppcheck --dump data.c
+python misra.py --suppress-rules 21.6 data.c.dump
+cppcheck --dump engine.h
+python misra.py --suppress-rules 21.6 engine.h.dump
+cppcheck --dump engine.c
+python misra.py --suppress-rules 21.6 engine.c.dump
