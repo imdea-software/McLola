@@ -31,10 +31,14 @@ To use MCLola, you need to install required software as specified below. Alterna
 
 ### Dockerfile
 
-1. Download this repo and move to the **src** directory.
+1. Download this repo.
+    ```bash
+    git clone https://github.com/imdea-software/McLola.git
+    ```
 
 2. Build the Docker image for the project.
     ```bash
+    cd McLola/
     docker build -t mclola .
     ```
 
