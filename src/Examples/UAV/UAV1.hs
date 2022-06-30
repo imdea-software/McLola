@@ -121,10 +121,10 @@ flying_in_safe_zones = Out ("flying_in_safe_zones", expr)
     poly   = iNow no_fly
     expr   = iNot (pointInPoly filPos poly)
  
--- Output stream: depht_into_poly
+-- Output stream: depth_into_poly
 
-depht_into_poly :: Stream (Maybe Double)
-depht_into_poly = Out ("depht_into_poly", expr)
+depth_into_poly :: Stream (Maybe Double)
+depth_into_poly = Out ("depth_into_poly", expr)
   where
     filPos       = iPoint2D (iNow filtered_pos_xp) (iNow filtered_pos_yp)
     poly         = iNow no_fly
@@ -169,5 +169,5 @@ spec = [ -- input streams
        , toDynStrm no_fly
        , toDynStrm flying_in_safe_zones
        
-         -- output stream: depht_into_poly
-       , toDynStrm depht_into_poly ]
+         -- output stream: depth_into_poly
+       , toDynStrm depth_into_poly ]

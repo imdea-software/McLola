@@ -1,0 +1,13 @@
+Instant 0:
+(0, temp, 18.00000000000000)
+(0, high, 0)
+Instant 1:
+(1, temp, 22.00000000000000)
+(1, high, 1)
+Instant 2:
+(2, temp, 21.00000000000000)
+(2, high, 2)
+Instant 3:
+(3, temp, 19.00000000000000)
+(3, high, 2)
+Finish:
